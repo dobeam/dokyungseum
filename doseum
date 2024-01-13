@@ -172,7 +172,7 @@
 
     <main>
         <!-- 브랜드 로고 추가 -->
-        <img id="brand-logo" src="/asset/로고포.png" alt="Brand Logo">
+        <img id="brand-logo" src="asset/로고포.png" alt="Brand Logo">
 
         <!-- 브랜드 이름 추가 -->
         <div id="brand-name">DOSEUM</div>
@@ -187,7 +187,7 @@
         </div>
 
         <!-- 추가된 이미지 -->
-        <img id="additional-image" src="/asset/도지엄 스토리.png" alt="Additional Image">
+        <img id="additional-image" src="asset/도지엄 스토리.png" alt="Additional Image">
     </main>
 
     <!-- 페이지 하단에 추가된 푸터 -->
